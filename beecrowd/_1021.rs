@@ -30,7 +30,7 @@ pub fn run() {
     println!("NOTAS:");
     println!("{} nota(s) de R$ 100.00", bills_amount[0]);
     println!("{} nota(s) de R$ 50.00", bills_amount[1]);
-    println!("{} nota(s) de R$ 25.00", bills_amount[2]);
+    println!("{} nota(s) de R$ 20.00", bills_amount[2]);
     println!("{} nota(s) de R$ 10.00", bills_amount[3]);
     println!("{} nota(s) de R$ 5.00", bills_amount[4]);
     println!("{} nota(s) de R$ 2.00", bills_amount[5]);

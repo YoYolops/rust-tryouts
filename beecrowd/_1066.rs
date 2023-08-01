@@ -1,5 +1,5 @@
 // 1066 - Pares, Ímpares, Positivos e Negativos - 
-pub fn main() {
+pub fn run() {
     let mut evens: i32 = 0;
     let mut odds: i32 = 0;
     let mut negatives: i32 = 0;
