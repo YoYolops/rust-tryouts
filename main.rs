@@ -1,8 +1,9 @@
 mod beecrowd {
     pub mod _1066;
+    pub mod _1030;
 }
 
 fn main() {
-    // beecrowd_1065::run();
-    beecrowd::_1066::run();
+    // beecrowd::_1030::run();
+
 }
