@@ -1,12 +1,3 @@
-pub fn input() -> String {
-    let mut input_string: String = String::new();
-    std::io::stdin()
-        .read_line(&mut input_string)
-        .expect("Panicked while colecting user input");
-
-    input_string
-}
-
 pub fn parse_to_int(str: &String) -> isize {
     let parsed_value: isize = str
         .trim()
